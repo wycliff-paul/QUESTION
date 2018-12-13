@@ -38,7 +38,7 @@ $(document).ready(function(){
     var q4 = document.getElementsByName('q4').value;
 
     for(var i = 0; i<=numOfQuestions; i++){
-      if(q.length===0){
+      if(eval('q' + 1) === ''){
         alert("answer all questions" + i);
       }
     }

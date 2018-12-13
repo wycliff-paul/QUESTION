@@ -1,65 +1,25 @@
-#titles
-
-
-
+## titles
 
 JAVASCRIPT-QUESTIONS
 
-
-
-
-#description
-
-
-
-
+## description
 
 questions impliment with answers basing on javascript.
 
-
-
-#Author
-
-
-
+## Author
 
 wycliff paul
 
-
-
-
-
-#information
-
-
-
-
+## information
 
 javascript-questions contains some quiz with a bit of jquery and bootstrap to enable users answer some essays to nurture the skills of understanding about JavaScript
 
-
-
-
-
-
-#instruction
-
-
-
-
-
+## instructions
 
 Read the question carefully to answer the question
 correct some changes from the question noted
 
-
-
-
-
-#Behaviour driven development
-
-
-
+## Behaviour driven development
 
 inputs:
 
@@ -73,27 +33,10 @@ outputs:
 1. If Validation & Verification Fails, Show Error Message
 2. Else, Run and see some graded correct answer
 
-
-
-
-
-
-#contact information
-
-
-
-
-
+##  contact information
 
 https://github.com/wycliff-paul/QUESTION.git
 
-
-
-
-
-#license
-
-
-
+## license
 
 MIT Licensed,copyright2019 cally berry
