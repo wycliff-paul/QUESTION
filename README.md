@@ -35,7 +35,7 @@ inputs:
 outputs:
 #contact information
 
-https://github.com/wycliff-paul/javascript-question.git
+https://github.com/wycliff-paul/QUESTIONS.git
 
 #license
 
