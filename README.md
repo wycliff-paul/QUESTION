@@ -34,7 +34,7 @@ outputs:
 
 #contact information
 
-https://github.com/wycliff-paul/QUESTIONS.git
+https://github.com/wycliff-paul/QUESTION.git
 
 #license
 
