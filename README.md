@@ -1,7 +1,4 @@
-#titles
-
-
-
+## titles
 
 
 JAVASCRIPT-QUESTIONS
@@ -9,9 +6,7 @@ JAVASCRIPT-QUESTIONS
 
 
 
-#description
-
-
+## description
 
 
 
@@ -19,9 +14,7 @@ questions impliment with answers basing on javascript.
 
 
 
-#Author
-
-
+## Author
 
 
 wycliff paul
@@ -30,9 +23,7 @@ wycliff paul
 
 
 
-#information
-
-
+## information
 
 
 
@@ -43,10 +34,7 @@ javascript-questions contains some quiz with a bit of jquery and bootstrap to en
 
 
 
-#instruction
-
-
-
+## instruction
 
 
 
@@ -57,19 +45,19 @@ correct some changes from the question noted
 
 
 
-#Behaviour driven development
+## Behaviour driven development
 
 
 
 
-inputs:
+# inputs:
 
 1. Gather users answer Information / Input
 2. The User validate and Verify answers and the grade
 
 
 
-outputs:
+# outputs:
 
 1. If Validation & Verification Fails, Show Error Message
 2. Else, Run and see some graded correct answer
@@ -79,10 +67,7 @@ outputs:
 
 
 
-#contact information
-
-
-
+## contact information
 
 
 
@@ -91,9 +76,7 @@ https://github.com/wycliff-paul/QUESTION.git
 
 
 
-
-#license
-
+## license
 
 
 
