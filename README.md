@@ -23,16 +23,14 @@ correct some changes from the question noted
 
 inputs:
 
-
-
-
-
-
-
-
+1. Gather users answer Information / Input
+2. The User validate and Verify answers and the grade
 
 
 outputs:
+
+1. If Validation & Verification Fails, Show Error Message
+2. Else, Run and see some graded correct answer
 
 #contact information
 
