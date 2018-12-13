@@ -1,0 +1,8 @@
+body, page1.html {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiTzhe7Bk7dP1W5ZjSqTEdus6e08N0bTDgxD-YUdgPeH9_AwgG");
+  background-repeat: no-repeat;
+  float: right;
+  display: flex;
+  padding-top: 25px;
+  background-size: contain;
+}

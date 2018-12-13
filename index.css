@@ -1,0 +1,27 @@
+.nav {
+  float: right;
+  display: inline-block;
+  padding:14px;
+  height:30px;
+  line-height:30px;
+  color:black;
+  font-size: 18px;
+}
+p {
+  font-weight: bold;
+  font-size: 50px;
+  float: right;
+}
+#position {
+  position: relative;
+  overflow:hidden;
+  width:90%;
+  min-width:800px;
+  margin-bottom:20px;
+  margin-top:20px;
+  margin-left:auto;
+  margin-right:auto;
+}
+li {
+  font-size: 25px;
+}
