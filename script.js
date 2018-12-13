@@ -37,14 +37,14 @@ $(document).ready(function(){
     var q3 = document.getElementsByName('q3').value;
     var q4 = document.getElementsByName('q4').value;
 
-    for(var i = 1; i<=numOfQuestions; i++){
-      if(eval('q' + 1) === ''){
+    for(var i = 0; i<=numOfQuestions; i++){
+      if(q.length===0){
         alert("answer all questions" + i);
       }
     }
 
     for(var i = 1; i<=1; i++){
-      if(eval('q' + 1) === ansArr[i - 1]){
+      if(eval('q' + 1) /home/moringa/Desktop/QUESTIONS/page1.html=== ansArr[i - 1]){
         scores++
       }
     }
