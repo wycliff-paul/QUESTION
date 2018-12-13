@@ -1,10 +1,17 @@
 #titles
 
 
+
+
 JAVASCRIPT-QUESTIONS
 
 
+
+
 #description
+
+
+
 
 
 questions impliment with answers basing on javascript.
@@ -14,7 +21,11 @@ questions impliment with answers basing on javascript.
 #Author
 
 
+
+
 wycliff paul
+
+
 
 
 
@@ -22,11 +33,19 @@ wycliff paul
 
 
 
+
+
 javascript-questions contains some quiz with a bit of jquery and bootstrap to enable users answer some essays to nurture the skills of understanding about JavaScript
 
 
 
+
+
+
 #instruction
+
+
+
 
 
 
@@ -35,12 +54,18 @@ correct some changes from the question noted
 
 
 
+
+
 #Behaviour driven development
+
+
+
 
 inputs:
 
 1. Gather users answer Information / Input
 2. The User validate and Verify answers and the grade
+
 
 
 outputs:
@@ -50,13 +75,25 @@ outputs:
 
 
 
+
+
+
 #contact information
+
+
+
+
 
 
 https://github.com/wycliff-paul/QUESTION.git
 
 
+
+
+
 #license
+
+
 
 
 MIT Licensed,copyright2019 cally berry
