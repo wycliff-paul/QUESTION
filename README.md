@@ -1,5 +1,9 @@
 ## titles
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8d681bd2b3b4383178eb95485d99431a43f2f08a
 
 JAVASCRIPT-QUESTIONS
 
@@ -9,11 +13,15 @@ questions impliment with answers basing on javascript.
 
 ## Author
 
+<<<<<<< HEAD
 wycliff paul
 
 ## information
 
 javascript-questions contains some quiz with a bit of jquery and bootstrap to enable users answer some essays to nurture the skills of understanding about JavaScript
+=======
+## description
+>>>>>>> 8d681bd2b3b4383178eb95485d99431a43f2f08a
 
 ## instructions
 =======
@@ -23,9 +31,13 @@ JAVASCRIPT-QUESTIONS
 
 
 
+<<<<<<< HEAD
 
 ## description
 
+=======
+## Author
+>>>>>>> 8d681bd2b3b4383178eb95485d99431a43f2f08a
 
 
 questions impliment with answers basing on javascript.
@@ -35,9 +47,13 @@ questions impliment with answers basing on javascript.
 ## Author
 
 
+<<<<<<< HEAD
 wycliff paul
 
 
+=======
+## information
+>>>>>>> 8d681bd2b3b4383178eb95485d99431a43f2f08a
 
 
 
@@ -49,9 +65,12 @@ javascript-questions contains some quiz with a bit of jquery and bootstrap to en
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 8d681bd2b3b4383178eb95485d99431a43f2f08a
 ## instruction
 
 
@@ -95,8 +114,11 @@ https://github.com/wycliff-paul/QUESTION.git
 
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 8d681bd2b3b4383178eb95485d99431a43f2f08a
 ## contact information
 
 
