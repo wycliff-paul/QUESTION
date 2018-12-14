@@ -4,5 +4,12 @@ body, page1.html {
   float: right;
   display: flex;
   padding-top: 25px;
-  background-size: contain;
+  background-size: 500px;
+  border-bottom: 15px green;
+}
+ol,li {
+  background-color: grey;
+  padding: 15px
+}
+
 }
